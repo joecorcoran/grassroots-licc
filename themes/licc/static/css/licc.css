@@ -1,5 +1,6 @@
 #main ul li {
     list-style-type: disc;
+    padding-bottom: 0.5em;
 }
 
 #main ul li ul {
@@ -7,7 +8,7 @@
 }
 
 #main ul li ul li {
-	list-style-type: lower-roman;
+	list-style-type: circle;
 }
 
 #logo {
