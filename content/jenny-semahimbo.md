@@ -8,9 +8,12 @@ kind = "candidate"
 weight = 1
 +++
 
-I have worked in the public/voluntary sector with deprived and immigrant communities, developing community/volunteer activism &#8212; useful skills and knowledge to help build a migrant rights campaign to protect UK and EU immigrants against increasing xenophobia and anti-immigrant racism in Europe and beyond.
+I've worked in the public/voluntary sector with deprived, left-behind and immigrant communities, developing community/volunteer activism &#8212; useful skills and knowledge to help build a migrants' rights campaign to protect UK and EU immigrants against increasing xenophobia and anti-immigrant racism in Europe and beyond.
 
-LI should promote an alternative message to Tory isolationism and the scapegoating of immigrants, supporting the LP to address the real issues causing inequality and poverty: privatisation and cuts in public services, low pay in poorly regulated labour markets, neglect of left behind communities. As a part of our slate, I will work to make LI:
+Labour International should promote an alternative message to Tory isolationism and the scapegoating of immigrants, supporting the Labour Party in addressing the real issues causing inequality and poverty: privatisation and cuts in public services, low pay in poorly regulated labour markets, and the neglect of left behind communities.
 
-* Outward looking, with LICC as a focal information point for members, and a link to the wider movement;
-* Support members to build local LI groups, strengthen links with in-country socialist groups, campaigns and organisations, building tools to inform and support members to become more active in their communities.
+As part of the Momentum International Grass Roots slate I'll work to make LI:
+
+* outward looking, with LICC as a focal information point for members, and a link to the wider movement.
+* support members to build local LI groups, strengthen links with in-country socialist groups, campaigns and organisations, build tools to inform and support members in becoming more active in their communities.
+
