@@ -1,0 +1,21 @@
+<div id="header-wrapper">
+  <div id="header" class="container">
+
+    <h1 id="logo"><a href="/">Momentum Grass Roots LICC</a></h1>
+
+    <nav id="nav">
+      <ul>
+	<li><a href="/about">About us</a></li>
+	<li class="break opener">
+	  <a href="#">Candidates</a>
+	  <ul>
+	    {{ range where .Site.Pages "Params.kind" "candidate" }}
+	      <li><a href="{{ .URL }}">{{ .Title }}</a></li>
+	    {{ end }}
+	  </ul>
+	</li>
+      </ul>
+    </nav>
+
+  </div>
+</div>

@@ -1,0 +1,81 @@
+<!DOCTYPE HTML>
+<!--
+  Telephasic by HTML5 UP
+  html5up.net | @ajlkn
+  Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+  <head>
+    <title>{{ .Title }} | Momentum Grass Roots LICC | A grassroots slate for the 2017 Labour International Coordinating Committee Election</title>
+    <meta name="description" content="{{ .Description }}" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!--[if lte IE 8]><script src="/js/ie/html5shiv.js"></script><![endif]-->
+    <link rel="stylesheet" href="/css/main.css" />
+    <link rel="stylesheet" href="/css/licc.css" />
+    <!--[if lte IE 8]><link rel="stylesheet" href="/css/ie8.css" /><![endif]-->
+    <!--[if lte IE 9]><link rel="stylesheet" href="/css/ie9.css" /><![endif]-->
+  </head>
+  <body class="right-sidebar">
+    <div id="page-wrapper">
+
+      {{ partial "header.html" . }}
+
+      <!-- Main -->
+        <div class="wrapper">
+          <div class="container" id="main">
+            <div class="row 150%">
+              <div class="8u 12u(narrower)">
+
+                <!-- Content -->
+                  <article id="content">
+                    <header>
+                      <h2>{{ .Title }}</h2>
+                      <p>{{ if (isset .Params "location") }} {{ .Params.location }} {{ else }} {{ .Description }} {{ end }}</p>
+                    </header>
+                    {{ if (isset .Params "img") }}
+                    <div class="image featured">
+                      <img src="/{{ .Params.img }}">
+                    </div>
+                    {{ end }}
+                    {{ .Content }}
+                  </article>
+
+              </div>
+              <div class="4u 12u(narrower)">
+
+                <!-- Sidebar -->
+                  <section id="sidebar">
+                    {{ $p := . }}
+                    {{ range where .Site.Pages "Params.kind" "candidate" }}
+                    {{ if eq $p.URL .URL }}
+                    {{ else}}
+                      <section>
+                        <header>
+                          <h3><a href="{{ .URL }}">{{ .Params.abbr }}</a></h3>
+                        </header>
+                        <p>{{ .Description }}</p>
+                      </section>
+                    {{ end }}
+                    {{ end }}
+                  </section>
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+        {{ partial "footer.html" . }}
+    </div>
+
+    <!-- Scripts -->
+
+      <script src="/js/jquery.min.js"></script>
+      <script src="/js/jquery.dropotron.min.js"></script>
+      <script src="/js/skel.min.js"></script>
+      <script src="/js/util.js"></script>
+      <!--[if lte IE 8]><script src="/js/ie/respond.min.js"></script><![endif]-->
+      <script src="/js/main.js"></script>
+
+  </body>
+</html>
