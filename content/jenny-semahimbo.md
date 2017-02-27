@@ -2,7 +2,7 @@
 title = "Jenny Semahimbo"
 abbr = "Jenny"
 description = "Jenny is a migrants' rights campaigner and wants to make Labour International more active and outward-looking."
-location = "Spain"
+location = "Torrox Pueblo, Spain"
 img = "jenny-sm.jpg"
 kind = "candidate"
 weight = 1
