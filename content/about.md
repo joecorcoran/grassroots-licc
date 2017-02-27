@@ -19,4 +19,4 @@ We want a Constituency Labour Party that:
     * provide protection at work and strong collective bargaining to end workplace injustices;
     * provide decent homes for all, from both public and private sector sources.
 
-In addition to our five candidates, we support the re-election of current secretary Lorraine Hardy to the LICC.
+In addition to our five candidates, we support the re-election of the current LICC Secretary Lorraine Hardy.
