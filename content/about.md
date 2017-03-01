@@ -1,7 +1,7 @@
 +++
 title = "About us"
-description = "Our vision for the International CLP"
 kind = "page"
+description = "We are five Labour and Momentum members who want to bring the LI members together"
 +++
 
 We want a Constituency Labour Party that:
@@ -19,4 +19,6 @@ We want a Constituency Labour Party that:
     * provide protection at work and strong collective bargaining to end workplace injustices;
     * provide decent homes for all, from both public and private sector sources.
 
-In addition to our five candidates, we support the re-election of the current LICC Secretary Lorraine Hardy.
+We also support the re-election of the current LICC Secretary Lorraine Hardy.
+
+[Read more about our vision for the future of Labour International](/our-vision/).

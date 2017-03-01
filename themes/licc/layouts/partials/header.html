@@ -5,9 +5,14 @@
 
     <nav id="nav">
       <ul>
-	<li><a href="/about">About us</a></li>
+	<li class="opener">
+	  <a href="/about">About us</a>
+	  <ul>
+	    <li><a href="/our-vision/">Our vision</a>
+	  </ul>
+	</li>
 	<li class="break opener">
-	  <a href="#">Candidates</a>
+	  <a href="/">Candidates</a>
 	  <ul>
 	    {{ range where .Site.Pages "Params.kind" "candidate" }}
 	      <li><a href="{{ .URL }}">{{ .Title }}</a></li>
