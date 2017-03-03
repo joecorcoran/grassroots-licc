@@ -4,6 +4,8 @@ description = "Rebooting as a dynamic, active organisation that empowers its mem
 kind = "page"
 +++
 
+*([Download PDF](/files/momentum-grass-roots-licc-our-vision.pdf))*
+
 LI’s membership has tripled in the last two years to some 3,500 members, making it one of Labour’s 10 biggest CLPs.  At the same time, we face huge political challenges: whether mobilising for Votes for Life for UK Citizens Overseas (which the government has promised to introduce before the next general election) or the appalling car crash of hard Brexit. On a wider level, snowballing inequality, the unabated attack on public provision and the increase of intolerance and fascism threatens not just the UK, but the whole world.
 
 The only way we can meet these challenges is by rebooting Labour International as a dynamic, active organisation that empowers its members and gives them a voice. Based in every continent, and with fantastically diverse experience, our members are our key asset &#8211; and should be regarded as an incredible resource for Labour. They are the key to reaching out both to 5.6 million UK voters overseas and to like-minded movements around the world. Forming international networks of solidarity is crucial to giving a voice and power back to the 99% &#8211; at home, and abroad.
