@@ -19,8 +19,11 @@ We want a Constituency Labour Party that:
     * provide protection at work and strong collective bargaining to end workplace injustices;
     * provide decent homes for all, from both public and private sector sources.
 
+
 We support Jeremy Corbyn's firm commitment to democratic socialism, John McDonnell's willingness to rethink the broken economic consensus, and the current Labour front bench team, who are a political breath of fresh air.
 
 We also support the re-election of the current LICC Secretary Lorraine Hardy.
+
+We are endorsed by [Red Labour](https://www.facebook.com/RedLabour2016/posts/424534654549985).
 
 [Read more about our vision for the future of Labour International](/our-vision/).
