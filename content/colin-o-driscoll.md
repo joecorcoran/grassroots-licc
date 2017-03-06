@@ -6,6 +6,7 @@ description = "Colin wants an active, campaigning CLP which will fight to put pe
 kind = "candidate"
 img = "colin-sm.jpg"
 weight = 4
+statement = "colin-o-driscoll.pdf"
 +++
 
 There are 5.6 million British migrants around the world, 3500 of us in Labour International. Our future is more uncertain than it has been for decades.

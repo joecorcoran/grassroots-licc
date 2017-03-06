@@ -6,6 +6,7 @@ description = "David wants a visible, supportive coordinating committee that wil
 kind = "candidate"
 img = "david-sm.jpg"
 weight = 5
+statement = "david-rothery.pdf"
 +++
 
 Those living outside the UK face the greatest uncertainty since WW2. We need an LICC committee visibly supporting and uniting us. 

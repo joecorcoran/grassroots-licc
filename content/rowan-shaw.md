@@ -6,6 +6,7 @@ description = "Rowan wants to use her IT sector experience to help members fight
 img = "rowan-sm.jpg"
 kind = "candidate"
 weight = 2
+statement = "rowan-shaw.pdf"
 +++
 
 With several thousand members worldwide, Labour International unites a wealth of talent and experience. An active, campaigning LI can bring these members together to fight for a juster society and, in particular, for migrant rights (both in the UK and worldwide).

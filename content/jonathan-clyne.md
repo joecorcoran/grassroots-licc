@@ -6,6 +6,7 @@ description = "Jonathan believes Jeremy Corbyn's 10 pledges can inspire other so
 kind = "candidate"
 img = "jonathan-sm.jpg"
 weight = 3
+statement = "jonathan-clyne.pdf"
 +++
 
 I re-joined the Labour Party to support Jeremy Corbyn. After 30 active years in the Swedish Social Democratic Party I have seen how a strong party has been decimated by a right-wing leadership.

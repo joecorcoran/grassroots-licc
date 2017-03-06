@@ -38,6 +38,11 @@
                       <img src="/{{ .Params.img }}">
                     </div>
                     {{ end }}
+
+                    {{ if (isset .Params "statement") }}
+                    <p><a href="/files/statements/{{ .Params.statement }}">Download {{ .Params.abbr }}'s full statement (PDF)</a></p>
+                    {{ end }}
+
                     {{ .Content }}
                   </article>
 

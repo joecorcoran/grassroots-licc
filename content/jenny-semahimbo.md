@@ -6,6 +6,7 @@ location = "Torrox Pueblo, Spain"
 img = "jenny-sm.jpg"
 kind = "candidate"
 weight = 1
+statement = "jenny-semahimbo.pdf"
 +++
 
 I've worked in the public/voluntary sector with deprived, left-behind and immigrant communities, developing community/volunteer activism &#8212; useful skills and knowledge to help build a migrants' rights campaign to protect UK and EU immigrants against increasing xenophobia and anti-immigrant racism in Europe and beyond.
